@@ -2,6 +2,8 @@
 name = "the_meaning_of_life"
 version = "0.1.0"
 edition = "2021"
+description = "Just answer you the meaning of life."
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
